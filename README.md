@@ -15,15 +15,21 @@ Please run demo_FOMH.m
 
 If you find our approach useful in your research, please consider citing:
 
-@inproceedings{'FOMH',
+@inproceedings{mm/LuZCLNZ19,
 
-    author    = {Xu Lu and Lei Zhu and Zhiyong Cheng and Jingjing Li and Xiushan Nie and Huaxiang Zhang},
-           
+    author    = {Xu Lu and
+               Lei Zhu and
+               Zhiyong Cheng and
+               Jingjing Li and
+               Xiushan Nie and
+               Huaxiang Zhang},
+               
     title     = {Flexible Online Multi-modal Hashing for Large-scale Multimedia Retrieval},
-
-    booktitle = {{ACM} {MM} 2019},
-
-    year      = {2019},
     
-    doi       = {10.1145/3343031.3350999}
+    booktitle = {Proceedings of the 27th {ACM} International Conference on Multimedia, {MM} 2019, Nice, France, October 21-25, 2019},
+  
+    pages     = {1129--1137},
+  
+    year      = {2019}.
+
 }
